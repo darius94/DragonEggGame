@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchScopes
+   version = "1.1">
+   <Scope
+      name = "My Scope"
+      predicate = "location_workspace_group == &quot;{\&quot;IDEValuesAsTree\&quot;:{\&quot;StarterGame\&quot;:{\&quot;StarterGame\&quot;:{\&quot;Game\&quot;:\&quot;\&quot;}}}}&quot;"
+      uuid = "BD3F9588-1A79-4C4B-AF60-AC5ECE50FC32">
+   </Scope>
+</SearchScopes>
